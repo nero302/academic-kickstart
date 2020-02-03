@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Ivan Simpson-Kent
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD candidate in Developmental Cognitive Neuroscience
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: MRC Cognition and Brain Sciences Unit, University of Cambridge
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I use statistical models to understand how the brain and behavior interact during childhood and adolescence to produce intelligence. I hope to apply insights from my research to help guide education policy, especially for disadvantaged youth struggling to learn in school. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Intelligence
+- Network Neuroscience
+- Education
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Medical Science
+    institution: University of Cambridge
+    year: 2020 (anticipated)
+  - course: BS in Neuroscience with secondary major in Philosophy, magna cum laude 
+    institution: University of Scranton
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +67,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ivan Simpson-Kent is a PhD candidate in developmental cognitive neuroscience in the Lifespan Cognitive Dynamics lab at the MRC Cognition and Brain Sciences Unit in Cambridge, England. My research interests include intelligence (human and otherwise), network neuroscience and education.
