@@ -24,7 +24,8 @@ interests:
 - Intelligence
 - Network Neuroscience
 - Educational Neuroscience
-- Creativity
+- Evidence-based policy
+- Transhumanism
 
 education:
   courses:
