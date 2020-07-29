@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ivan Simpson-Kent
+name: Ivan L. Simpson-Kent
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate in Developmental Cognitive Neuroscience
+role: PhD candidate in Medical Science (specializing in developmental cognitive neuroscience)
 
 # Organizations/Affiliations
 organizations:
@@ -18,18 +18,19 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I use statistical models to understand how the brain and behavior interact during childhood and adolescence to produce intelligence. I hope to apply insights from my research to help guide education policy, especially for disadvantaged youth struggling to learn in school. 
+bio: Hello and welcome to my website! My name is Ivan Simpson-Kent and I'm a PhD candidate at the University of Cambridge where I condcut research in developmental cognitive neuroscience. Specifically, I use statistical models (e.g. structual equation models & network science) to understand how the brain and behavior interact during childhood and adolescence to produce intelligence (e.g. working memory & fluid intelligence). After my PhD, I plan to apply insights from my research to help guide education policy, especially for disadvantaged youth struggling to learn in school. 
 
 interests:
 - Intelligence
 - Network Neuroscience
-- Education
+- Educational Neuroscience
+- Creativity
 
 education:
   courses:
   - course: PhD in Medical Science
     institution: University of Cambridge
-    year: 2020 (anticipated)
+    year: 2021 (anticipated)
   - course: BS in Neuroscience with secondary major in Philosophy, magna cum laude 
     institution: University of Scranton
     year: 2016
@@ -41,16 +42,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "ivan.simpsonkent@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/IvanSimpsonKent
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.co.uk/citations?user=tdwjGUcAAAAJ&hl=en
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Ivan Simpson-Kent is a PhD candidate in developmental cognitive neuroscience in the Lifespan Cognitive Dynamics lab at the MRC Cognition and Brain Sciences Unit in Cambridge, England. My research interests include intelligence (human and otherwise), network neuroscience and education.
+Ivan Simpson-Kent is a PhD candidate in developmental cognitive neuroscience in the Lifespan Cognitive Dynamics lab at the MRC Cognition and Brain Sciences Unit (University of Cambridge, Wolfson College) in Cambridge, England. His research interests include intelligence (human and otherwise), creativity, network neuroscience and education. He/they (h+).
